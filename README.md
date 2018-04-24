@@ -1,10 +1,19 @@
-Video Player developed with React!
+Video Player developed with React! 
 
 Youtube api was used to fetch the video data.
 
+User can instantly fetch the videos by typing letters.
 
-> After you download this project, install node.js
-> npm install -g to install node.js globally
-> npm start
+SET UP:
+
+git clone https://github.com/SurajReddyThummala/Youtube-Player-React.git
+
+npm install
+
+npm start
+
+visit localhost:8080 on browser
+
+This project is a part of Udemy Stephen Grider Course.
 
 "# Youtube-Player-React" 
